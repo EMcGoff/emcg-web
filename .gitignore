@@ -1,9 +1,0 @@
-node_modules
-dist/
-.tmp
-app.yaml
-.idea
-yarn.lock
-docs
-LICENSE
-.publish
